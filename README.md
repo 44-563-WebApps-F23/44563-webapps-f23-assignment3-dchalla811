@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-hosted at [Challa page link ] https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-dchalla811/
+hosted at [Challa page link](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-dchalla811/)
